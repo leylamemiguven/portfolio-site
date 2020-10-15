@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Product+Sans');
+
+/* main text */
+body {
+  font-size: 20px;
+  font-family: Product Sans;
+  font-stretch: expanded;
+  color: white;
+  background-color: black;
+  text-align:center;
+
+}
+h1, h2 {
+  font-size: 30px;
+  font-family: Caveat;
+  color: red;
+  text-align-last: center;
+}
+

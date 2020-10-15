@@ -1,0 +1,40 @@
+/*Home Page Content*/
+.firfir-img{
+  width: 100%;
+  /* padding:  0 8vw; */
+}
+.mask-img{
+  width: 50%;
+
+}
+
+.p{
+    text-align: center;
+}
+
+.containter {
+    position: relative;
+  }
+
+
+.title-text{
+  display:block;
+  margin: 10% 0 20% 0;
+
+
+}
+.centered {
+  margin:auto;
+  display: block;
+  color: red;
+  font-size: 50px;
+  font-family: Caveat;
+  text-align: center;
+
+}
+
+.AboutSection{
+  background-color: rgb(54, 54, 54);
+  padding: 3vw 8vw 5vw;
+
+}

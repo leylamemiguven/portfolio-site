@@ -1,0 +1,48 @@
+
+.prologue-button{
+    text-decoration: none;
+}
+.trigger-warning{
+    text-align:center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: red;
+
+}
+
+.currentWork{
+
+    padding: 0 8vw 0;
+
+}
+.synopsis{
+    border-bottom:2px solid; 
+    border-top:2px solid; 
+}
+.writingImage{
+    width: 100%;
+    margin-top:5%;
+}
+.beta-reader{
+    padding: 8vw;
+    
+}
+
+.prologue-button{
+    background-color: black;
+    font-size: 90%;
+    font-family: Product Sans;
+    color: white;
+    border-color:white;
+    padding: 12px 12px;
+    border-radius: 12px;
+    margin:auto;
+    display:block;
+    border: 2px solid;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .prologue-button:hover{
+    color:red;
+  
+  }

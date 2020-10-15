@@ -1,0 +1,48 @@
+body { 
+    background-color: black;
+    color: white;
+    text-align: center;   
+}
+input[type=text],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border-radius: 4px;
+  margin-top: 6px;
+  border: none;
+  margin-bottom: 16px;
+  resize: vertical;
+  background-color: black ;
+  border-bottom: 3px solid;
+  color: white;
+  font-family: Product Sans;
+  border-color: white;
+}
+
+input[type=submit] {
+  background-color: black;
+  color: white;
+  font-size: 90%;
+  padding: 12px 20px;
+  border: 2px solid;
+  border-radius: 12px;
+  cursor: pointer;
+  font-family: Product Sans;
+  margin-top: 5%;
+  font-size: 90%;
+}
+input[type=submit]:hover {
+  color: red;
+}
+
+.form {
+  border-radius: 5px;
+  padding: 6vw;
+  text-align: center;
+
+}
+
+.contact-me-form{
+    padding: 4% 20%;
+}
