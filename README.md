@@ -1,3 +1,6 @@
+# L.M. Gwen Author Website
+This is a website created to showcase my work as an author. You can check out the site at : https://lmgwen-author-site.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -11,6 +14,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+## Application Overview
+![Screen Shot 2024-09-10 at 2 26 42 PM](https://github.com/user-attachments/assets/e9ad1cc8-a17b-4cac-9b34-1204eec24ec9)
+![Screen Shot 2024-09-10 at 2 26 51 PM](https://github.com/user-attachments/assets/02850ac4-2d52-4b21-846b-19910b09efa3)
+![Screen Shot 2024-09-10 at 2 27 04 PM](https://github.com/user-attachments/assets/1dd6872a-20e4-4f2c-ab23-e54bc2319e1a)
+![Screen Shot 2024-09-10 at 2 26 58 PM](https://github.com/user-attachments/assets/37e78ecc-9144-4111-bb58-4e5edbc0ae89)
+
 
 ### `npm test`
 
@@ -43,26 +53,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
