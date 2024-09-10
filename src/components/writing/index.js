@@ -52,7 +52,7 @@ class Writing extends Component {
                     </p>
 
             </div> 
-                <img src={WritingImg} className= "writingImage"/>
+                <img src={WritingImg} className= "writingImage" alt="a notebook and an illstration of a witch" />
             </div>
 
             <div className="beta-reader">

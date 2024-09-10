@@ -10,7 +10,7 @@ function MainContent() {
         <div className="container">
              <title>Home</title>
             <div className="banner">
-            <img src={Mask} className="mask-img"/>
+            <img src={Mask} className="mask-img" alt="a ceremonial mask with feather coming out from the sides"/>
             <div className="title-text">
                         <p className="centered">Leyla Memiguven</p>
                         <p>Recovering salt and <br/> vinegar chips addict</p> 
@@ -27,7 +27,7 @@ function MainContent() {
                         see on this website are my personal hand-drawn illustrations of how I imagined the settings and characters. If I can finish my fantasy book before I eat myself whole, you can
                         find all the updates here.</p>
             </div>
-            <img src={Firfir} class="firfir-img"/>
+            <img src={Firfir} className="firfir-img" alt="notebooks and illustrations littered on the floor with a cat looking at them"/>
             
         </div>
     </div>
