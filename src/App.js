@@ -1,5 +1,4 @@
 import React from 'react'
-import NavigationBar from './components/navbar'
 import Gallery from './components/gallery'
 import MainContent from './components/maincontent'
 import Contact from './components/contact'

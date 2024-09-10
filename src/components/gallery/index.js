@@ -20,7 +20,7 @@ function Gallery() {
           <h1 className="title"> Gallery </h1>
         </div>
       <div>
-            <img src={PowerCouple} className="image" alt="" />
+            <img src={PowerCouple} className="image" alt="an illustration of  woman and a man power posing side to side next to a notebook" />
             <img src={NorthernEyes} className="image" alt="Guy with cyan blue eyes" />
             <img src={SolauiBattle} className="image" alt="A red haired woman with a spear"/>
             <img src={Expedition} className="image" alt="People going on an expledition in a snowy mountain landscape" />
